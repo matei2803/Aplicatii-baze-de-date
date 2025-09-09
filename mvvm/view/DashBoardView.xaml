@@ -1,0 +1,203 @@
+﻿<UserControl x:Class="expences.mvvm.view.DashBoardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:expences.mvvm.view"
+             mc:Ignorable="d" 
+             d:DesignHeight="474.473" d:DesignWidth="663.634">
+    <StackPanel>
+        <TextBlock Text="Dashboard"
+                   Foreground="White"
+                   FontSize="28"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+
+        <StackPanel Orientation="Horizontal"
+                    Margin="0,0,0,10">
+            <Border Width="150"
+                    Height="80">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#21D9EB" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1.5"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,170,80"/>
+                </Border.Clip>
+
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="Total Income"
+                                   Foreground="White"
+                                   FontSize="24"
+                                   HorizontalAlignment="Center"/>
+
+                        <TextBlock Text="€ 3000.00"
+                                FontWeight="Bold"
+                                Foreground="White"
+                                FontSize="24"
+                                HorizontalAlignment="Center"
+                                Margin="10"/>
+           
+                    </StackPanel>
+                </Grid>
+                
+            </Border>
+
+            <Border Width="60"
+                    Height="80">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#21D9EB" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="-10,0,70,80"/>
+                </Border.Clip>
+
+                <Image Source="/images/euro.png" Width="50" Height="60"
+                            HorizontalAlignment="Center" />
+
+
+            </Border>
+
+            <Border Width="150"
+                    Height="80"
+                    Margin="15 0 0 0">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#21D9EB" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1.5"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,170,80"/>
+                </Border.Clip>
+
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="Total Expence"
+                                   Foreground="White"
+                                   FontSize="24"
+                                   HorizontalAlignment="Center"/>
+
+                        <TextBlock Text="€ 2345.00"
+                                FontWeight="Bold"
+                                Foreground="White"
+                                FontSize="24"
+                                HorizontalAlignment="Center"
+                                Margin="10"/>
+
+                    </StackPanel>
+                </Grid>
+
+            </Border>
+
+            <Border Width="60"
+                    Height="80">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#21D9EB" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="-10,0,70,80"/>
+                </Border.Clip>
+
+                <Image Source="/images/euro.png" Width="50" Height="60"
+                            HorizontalAlignment="Center" />
+
+
+            </Border>
+            
+            <Border Width="150"
+                    Height="80"
+                    Margin="15 0 0 0">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#21D9EB" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1.5"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,170,80"/>
+                </Border.Clip>
+
+                <Grid>
+                    <StackPanel>
+                        <TextBlock Text="Balance"
+                                   Foreground="White"
+                                   FontSize="24"
+                                   HorizontalAlignment="Center"/>
+
+                        <TextBlock Text="€ 3465.00"
+                                FontWeight="Bold"
+                                Foreground="White"
+                                FontSize="24"
+                                HorizontalAlignment="Center"
+                                Margin="10"/>
+
+                    </StackPanel>
+                </Grid>
+
+            </Border>
+
+            <Border Width="60"
+                    Height="80">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#21D9EB" Offset="0.0"/>
+                        <GradientStop Color="#ffb73a" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="-10,0,70,80"/>
+                </Border.Clip>
+
+                <Image Source="/images/euro.png" Width="50" Height="60"
+                            HorizontalAlignment="Center" />
+
+
+            </Border>
+
+        </StackPanel>
+
+        <StackPanel>
+
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="Margin" Value="15,0,0,0"/>
+                </Style>
+            </StackPanel.Resources>
+
+            <TextBlock Text="Categories with biggest expense"
+                   Foreground="White"
+                   FontSize="20"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>

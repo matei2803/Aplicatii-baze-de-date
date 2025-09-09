@@ -1,0 +1,115 @@
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.csproj.AssemblyReference.cache
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\MainWindow.g.cs
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\mvvm\view\HomeView.g.cs
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\App.g.cs
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences_MarkupCompile.cache
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences_MarkupCompile.lref
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\theme\MenuButtonTheme.baml
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\theme\TabButtonTheme.baml
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\theme\TextBoxTheme.baml
+C:\Users\Matei\source\repos\expences\expences\bin\Debug\expences.exe.config
+C:\Users\Matei\source\repos\expences\expences\bin\Debug\expences.exe
+C:\Users\Matei\source\repos\expences\expences\bin\Debug\expences.pdb
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\App.baml
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\MainWindow.baml
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\mvvm\view\HomeView.baml
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.g.resources
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.Properties.Resources.resources
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.csproj.GenerateResource.cache
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.csproj.CoreCompileInputs.cache
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.exe
+C:\Users\Matei\source\repos\expences\expences\obj\Debug\expences.pdb
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\expences.exe.config
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\expences.exe
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\expences.pdb
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.csproj.AssemblyReference.cache
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.csproj.SuggestedBindingRedirects.cache
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\theme\MenuButtonTheme.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\theme\TabButtonTheme.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\theme\TextBoxTheme.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\MainWindow.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\HomeView.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\UserView.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\App.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences_MarkupCompile.cache
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences_MarkupCompile.lref
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\App.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\MainWindow.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\HomeView.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\UserView.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.g.resources
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.Properties.Resources.resources
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.csproj.GenerateResource.cache
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.csproj.CoreCompileInputs.cache
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.exe
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.pdb
+d:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\DashBoardView.g.cs
+d:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\DashBoardView.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\MyNewWindow.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\MyNewWindow.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\User\MyTextBox.baml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\User\MyTextBox.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\User\MyOption.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\User\MyOption.baml
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\FontAwesome.WPF.dll
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\FontAwesome.WPF.xml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\expences.csproj.CopyComplete
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\User\Login.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\User\Login.baml
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\LiveCharts.dll
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\LiveCharts.Wpf.dll
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\LiveCharts.pdb
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\LiveCharts.xml
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\LiveCharts.Wpf.pdb
+D:\Users\Matei\Desktop\ApBaze\expences\bin\Debug\LiveCharts.Wpf.xml
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\RecordView.g.cs
+D:\Users\Matei\Desktop\ApBaze\expences\obj\Debug\mvvm\view\RecordView.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\expences.exe.config
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\expences.exe
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\expences.pdb
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\FontAwesome.WPF.dll
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\LiveCharts.dll
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\LiveCharts.Wpf.dll
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\FontAwesome.WPF.xml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\LiveCharts.pdb
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\LiveCharts.xml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\LiveCharts.Wpf.pdb
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\bin\Debug\LiveCharts.Wpf.xml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.csproj.AssemblyReference.cache
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.csproj.SuggestedBindingRedirects.cache
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\theme\MenuButtonTheme.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\theme\TabButtonTheme.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\theme\TextBoxTheme.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\User\MyTextBox.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\MainWindow.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\DashBoardView.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\HomeView.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\RecordView.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\UserView.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\MyNewWindow.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\User\Login.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\User\MyOption.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\User\MyTextBox.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\App.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences_MarkupCompile.cache
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences_MarkupCompile.lref
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\App.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\MainWindow.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\DashBoardView.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\HomeView.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\RecordView.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\mvvm\view\UserView.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\MyNewWindow.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\User\Login.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\User\MyOption.baml
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.g.resources
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.Properties.Resources.resources
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.csproj.GenerateResource.cache
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.csproj.CoreCompileInputs.cache
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.csproj.CopyComplete
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.exe
+d:\Users\Matei\Desktop\atm anul III\Semestrul I\Baze\ApBaze\expences\obj\Debug\expences.pdb
