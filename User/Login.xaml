@@ -1,0 +1,23 @@
+﻿<Window x:Class="expences.User.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:expences.User"
+        mc:Ignorable="d"
+        Title="Login" Height="350" Width="600" WindowStyle="None"
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True"
+        ResizeMode="NoResize" Background="Transparent">
+
+    <Border x:Name="border1" Background="#17A589" Padding="30" CornerRadius="20">
+        <StackPanel VerticalAlignment="Center">
+            <Image Source="/images/hacker.png" Width="130" Height="130" Margin="0,0,0,20"/>
+            <TextBlock Text="Congratulations, you are logged in!" TextAlignment="Center" FontWeight="SemiBold"
+                           FontSize="28" Foreground="#363636"/>
+            <Button Content="Let's go" Margin="0 30 0 0" Grid.Column="1" 
+                                Style="{StaticResource buttonMainPink}"
+                                Click="Button_Click" Width="150"/>
+        </StackPanel>
+    </Border>
+ 
+</Window>
